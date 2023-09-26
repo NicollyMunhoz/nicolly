@@ -1311,7 +1311,7 @@ class SecondPage extends StatelessWidget {
                 viewportFraction: 0.5, // Fração de visualização dos itens
                 initialPage: 0, // Página inicial
                 enableInfiniteScroll: false, // Rolagem infinita
-                reverse: true, // Rolagem reversa
+                reverse: false, // Rolagem reversa
                 autoPlay: false, // Reprodução automática
                 autoPlayInterval: Duration(seconds: 3), // Intervalo de reprodução automática
                 autoPlayAnimationDuration: Duration(milliseconds: 800), // Duração da animação de reprodução automática
