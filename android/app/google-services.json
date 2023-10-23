@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200618495323",
+    "project_id": "desenvolvimentoaplicativ-b20d8",
+    "storage_bucket": "desenvolvimentoaplicativ-b20d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200618495323:android:0e4f3e9d3990308dbede7e",
+        "android_client_info": {
+          "package_name": "Nicolly.Flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvdLybcTW7LzK3EmlPZN5eumpnDRLocaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

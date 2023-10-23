@@ -1,4 +1,5 @@
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="Nicolly.Flutter">
     <application
         android:label="nicolly"
         android:name="${applicationName}"
